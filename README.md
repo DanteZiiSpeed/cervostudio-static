@@ -1,0 +1,1 @@
+cervostudio-static
