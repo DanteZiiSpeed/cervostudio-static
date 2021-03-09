@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	《世界，您好！》的评论	</title>
-	<atom:link href="http:///index.php/2021/03/07/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http:///index.php/2021/03/07/hello-world/</link>
+	<atom:link href="/index.php/2021/03/07/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2021/03/07/hello-world/</link>
 	<description>鹿城工作室</description>
 	<lastBuildDate>Sat, 06 Mar 2021 21:39:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		作者：一位WordPress评论者		</title>
-		<link>http:///index.php/2021/03/07/hello-world/#comment-1</link>
+		<link>/index.php/2021/03/07/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[一位WordPress评论者]]></dc:creator>
 		<pubDate>Sat, 06 Mar 2021 21:39:52 +0000</pubDate>

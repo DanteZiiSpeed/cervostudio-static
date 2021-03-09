@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Fow_ncervo | CervoGrafica</title>
-	<atom:link href="http:///index.php/author/fow_ncervo/feed/" rel="self" type="application/rss+xml" />
-	<link>http:///</link>
+	<atom:link href="/index.php/author/fow_ncervo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>鹿城工作室</description>
 	<lastBuildDate>Sat, 06 Mar 2021 21:39:52 +0000</lastBuildDate>
 	<language>zh-CN</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 	<item>
 		<title>世界，您好！</title>
-		<link>http:///index.php/2021/03/07/hello-world/</link>
-					<comments>http:///index.php/2021/03/07/hello-world/#comments</comments>
+		<link>/index.php/2021/03/07/hello-world/</link>
+					<comments>/index.php/2021/03/07/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Fow_ncervo]]></dc:creator>
 		<pubDate>Sat, 06 Mar 2021 21:39:52 +0000</pubDate>
@@ -31,7 +31,7 @@
 
 					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
 		
-					<wfw:commentRss>http:///index.php/2021/03/07/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/index.php/2021/03/07/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
